@@ -1,7 +1,6 @@
 import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt    # type: ignore
-
+import matplotlib.pyplot as plt
 
 def trapezoidal_rule(f, a, b, n):
     """
